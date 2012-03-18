@@ -19,7 +19,6 @@
   "devDependencies": {
     "ejs": "*",
     "mocha": "*",
-    "jade": "*",
     "stylus": "*",
     "should": "*",
     "connect-redis": "*",
